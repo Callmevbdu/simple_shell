@@ -1,0 +1,1 @@
+The project creates a simple shell, it is built for completing a task in ALX school.
